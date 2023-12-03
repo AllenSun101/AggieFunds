@@ -1,3 +1,5 @@
+Personal Copy
+
 # AggieFunds
 
 To run the project, open two terminals in VS Code.
